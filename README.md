@@ -31,11 +31,12 @@ I love crafting elegant UIs, improving developer experience, and exploring **AI 
 📧 **prafullsingh37@gmail.com**  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/prafull-singh) | [**GitHub**](https://github.com/)  
 🕸️ [**Website**](https://prafullsingh.vercel.app/)
+
 ---
 
 ⭐️ *“Code. Create. Collaborate.”*  
 
 ---
-#### Side Profiles(Office) 😂
-https://github.com/prafull-testsigma
-https://github.com/pst37
+#### My Daily contribution 😂
+🥇[Testsigma](https://github.com/prafull-testsigma)
+②[Tellius](https://github.com/pst37)
