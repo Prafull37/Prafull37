@@ -21,7 +21,7 @@ I love crafting elegant UIs, improving developer experience, and exploring **AI 
 
 ### 🔍 Currently  
 💭 Exploring **interesting & innovative project ideas**, especially in  
-✨ *AI tools, Chrome extensions, developer productivity, and modern UI systems.*  
+✨ *AI tools, Chrome extensions, developer productivity, performance improvements and modern UI systems.*  
 
 🤝 Open to **collaboration**, **side projects**, and **tech discussions**!  
 
@@ -30,7 +30,12 @@ I love crafting elegant UIs, improving developer experience, and exploring **AI 
 ### 📫 Connect with Me  
 📧 **prafullsingh37@gmail.com**  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/prafull-singh) | [**GitHub**](https://github.com/)  
-
+🕸️ [**Website**](https://prafullsingh.vercel.app/)
 ---
 
 ⭐️ *“Code. Create. Collaborate.”*  
+
+---
+#### Side Profiles(Office) 😂
+https://github.com/prafull-testsigma
+https://github.com/pst37
