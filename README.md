@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm **Prafull Singh**
 
-<!--
-**Prafull37/Prafull37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Lead UI Engineer | React & Next.js Developer**  
+📍 Bengaluru, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me  
+I’m a passionate **Frontend Developer** with 6+ years.  
+I love crafting elegant UIs, improving developer experience, and exploring **AI + Frontend** innovations.  
+
+---
+
+### ⚙️ Tech Stack  
+💻 **Frontend:** React • Next.js • Redux • React Query • SCSS • HTML • CSS  
+🧠 **Backend:** Node.js • Express • Python  
+🗄️ **Database:** PostgreSQL  
+🧰 **Tools:** Webpack • Esbuild • Babel • Jest • GitHub Actions  
+
+---
+
+### 🔍 Currently  
+💭 Exploring **interesting & innovative project ideas**, especially in  
+✨ *AI tools, Chrome extensions, developer productivity, and modern UI systems.*  
+
+🤝 Open to **collaboration**, **side projects**, and **tech discussions**!  
+
+---
+
+### 📫 Connect with Me  
+📧 **prafullsingh37@gmail.com**  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/prafull-singh) | [**GitHub**](https://github.com/)  
+
+---
+
+⭐️ *“Code. Create. Collaborate.”*  
